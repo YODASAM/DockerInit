@@ -1,2 +1,2 @@
 # DockerInit
-DOcker Inittiation Project
+Docker Inittiation Project
